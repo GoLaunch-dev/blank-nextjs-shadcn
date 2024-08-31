@@ -1,16 +1,3 @@
-# Next.js and Shadcn UI Template
-
-This is a basic template for creating web applications using Next.js and Shadcn UI components. It provides a lightweight starting point for your projects with modern web technologies.
-
-## Features
-
-- Next.js 14.2.7
-- React 18
-- Shadcn UI components
-- TypeScript support
-- ESLint and Prettier for code quality
-- Tailwind CSS for styling
-
 ## Getting Started
 
 1. Clone this repository

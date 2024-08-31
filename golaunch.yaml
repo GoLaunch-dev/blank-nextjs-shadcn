@@ -1,0 +1,30 @@
+metadata:
+  template_name: Blank ShadCN NextJS Application
+  template_description: A simple NextJS application template with ShadCN UI components, ideal for creating a brand new lightweight project.
+  template_github_owner: https://github.com/GoLaunch-dev/
+  tags:
+    - nextjs
+    - react
+    - shadcn
+    - blank
+
+fields:
+  - label: Repo Name
+    codeId: repoName
+    description: Name of the new repository
+    codeDefined: '{{repoName}}'
+    type: string
+    defaultValue: shadcn-nextjs-blank
+    required: true
+    aiGenable: false
+  - label: Site Name
+    codeId: siteName
+    description: Name of the website / company
+    codeDefined: '{{siteName}}'
+    type: string
+    defaultValue: My site
+    required: true
+    aiGenable: false
+
+ignore:
+  - golaunch.yaml
